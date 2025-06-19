@@ -48,4 +48,4 @@ To enable log forwarding from Illumio to an Amazon S3 bucket, follow the steps o
   - Enter the **Illumio Service Account Secret** when prompted, then proceed to create the stack.
 - After the stack has been successfully deployed, return to the Illumio console.
 - Click **Save and Test Connection** to validate the integration.
-- A "Connection Successful" message should confirm that the log forwarding setup is complete.
+- A `Connection Successful` message should confirm that the log forwarding setup is complete.
